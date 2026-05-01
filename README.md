@@ -85,18 +85,6 @@ Customers were segmented into:
 
 ---
 
-## 📂 Project File
-- 📊 `Customer_Segment_RFM.ipynb`
-
----
-
-## ▶️ How to Run
-1. Clone the repository  
-2. Open Jupyter Notebook  
-3. Run all cells  
-
----
-
 ## 👨‍💻 Author
 Akshay  
 
