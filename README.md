@@ -86,7 +86,7 @@ Customers were segmented into:
 ---
 
 ## 📁 Files Included
--Pyhton file blob:https://github.com/7ba5678a-4417-4fbd-af3b-9d9325d51534
+-Python RFM Analysis Notebook[Pyhton file blob:https://github.com/7ba5678a-4417-4fbd-af3b-9d9325d51534](https://github.com/akshay-code10/Customer-Segment--RFM/blob/main/Customer_Segment%20_RFM.ipynb)
 
 ---
 
